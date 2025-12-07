@@ -1,0 +1,2 @@
+Le deep learning est aujourd’hui utilisé pour aider les médecins à analyser les images médicales comme les mammographies, scanners, IRM ou échographies. L’objectif de ce projet est de comprendre, appliquer et comparer différentes méthodes d’apprentissage profond capables de détecter, segmenter ou classifier des anomalies (ex : tumeurs). 
+Ce travail permettra de développer des outils plus rapides, plus précis et reproductibles pour améliorer le diagnostic médical.
